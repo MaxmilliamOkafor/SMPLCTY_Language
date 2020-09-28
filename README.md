@@ -1,3 +1,13 @@
+PROJECT GOAL!!
+The aim of the program is to have source code that’s its easier for new programmers to grasp, by being like every day English when read aloud. Simplicity is interpreted language that uses a declarative paradigm. 
+
+
+////////////////////////////////////////////
+////////                        ////////////
+////////  EXTRACT THE ZIP FILE  ////////////
+////////                        ////////////
+////////////////////////////////////////////
+
 # SMPLCTY_Language
 Created my own object-oriented programming language that uses the computation model based on the Turing machine
 
