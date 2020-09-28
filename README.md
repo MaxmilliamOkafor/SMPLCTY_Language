@@ -9,7 +9,7 @@ The aim of the program is to have source code that’s its easier for new progra
 ////////////////////////////////////////////
 
 # SMPLCTY_Language
-Created my own object-oriented programming language that uses the computation model based on the Turing machine
+--- Created my own object-oriented programming language that uses the computation model based on the Turing machine ---
 
 // LANGUAGE WAS CREATED WITH ECLIPSE //
 // RUNS WITH COMMAND PROMPT //
